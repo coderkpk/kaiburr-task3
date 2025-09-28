@@ -1,0 +1,5 @@
+{
+  "name": "Kaiburr Task Manager",
+  "description": "A web UI to manage shell command tasks, allowing users to create, view, search, delete, and run tasks, as well as view their execution output. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
